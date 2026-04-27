@@ -1,14 +1,15 @@
-%let pgm=utl-altair-slc-veeam-backup-and-replication-requirements-using-standard-industry-estimation-logic;
+ %let pgm=utl-altair-slc-veeam-backup-and-replication-requirements-using-standard-industry-estimation-logic;
 
 %stop_submission;
 
 Veeam Backup and Replication requirements using standard industry estimation logic
 
+Estimate how much storage is needed  for backup and replication for a year
+
 PROBLEM (what we want)
 
   Projected Year 1 Storage Gb: 55000.0
 
-Estimate how much storage is needed  for backup and replication for a year
 Too long to post on a list, see github
 [GITHUB] (https://github.com/rogerjdeangelis/utl-altair-slc-veeam-backup-and-replication-requirements-using-standard-industry-estimation-logic)
 https://github.com/rogerjdeangelis/utl-altair-slc-veeam-backup-and-replication-requirements-using-standard-industry-estimation-logic
@@ -183,3 +184,4 @@ NOTE: Submitted statements took :
  \___|_| |_|\__,_|
 
 */
+
